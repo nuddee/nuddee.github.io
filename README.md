@@ -1,3 +1,2 @@
-#
-This is my Github page
+# This is my GitHub page
 By Phatbophit 
