@@ -2,7 +2,7 @@
 ## Overview
 
 
->In this project, I am working on the "Car Market Analytics" web application using Vite React base and Chartjs to visualize the chart from provided JSON files. Moreover, I used the Bootstrap CSS framework and the Font Awesome library for styling my Car Market Analytics application. And using React Router to create a browser-based router function.
+>In this project, I'm working on the "Car Market Analytics" web application using Vite React base and Chartjs to visualize the chart from provided JSON files. Moreover, I used the Bootstrap CSS framework and the Font Awesome library for styling my Car Market Analytics application. And using React Router to create a browser-based router function.
 
 
 ## Features
