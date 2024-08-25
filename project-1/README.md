@@ -26,7 +26,7 @@ Features
 
 
 Screenshots 
-![Dashboard Screenshot](prject-1/images/dashboard.png)
+![Dashboard Screenshot](images/Dashboard1.png)
 
 
 
