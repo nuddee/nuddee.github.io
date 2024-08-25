@@ -26,7 +26,7 @@ Features
 
 
 Screenshots 
-
+![Alt text](images/Dashboard1.png)
 
 
 
